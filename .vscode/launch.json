@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "best_flutter_ui_templates",
+            "cwd": "best_flutter_ui_templates",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "best_flutter_ui_templates (profile mode)",
+            "cwd": "best_flutter_ui_templates",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
